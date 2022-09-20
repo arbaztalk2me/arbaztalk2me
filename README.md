@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arbaztalk" target="blank"><img src="https://img.shields.io/twitter/follow/arbaztalk?logo=twitter&style=for-the-badge" alt="arbaztalk" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Online Pharmacy**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
